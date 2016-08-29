@@ -1,5 +1,7 @@
 ## This is a header 2 
-Heart emoji :heart:
+- Heart emoji :heart:
+
+### This is a header 3
 
 #### This is a header 4
-Pizza emoji :pizza:
+- Pizza emoji :pizza:
